@@ -1,4 +1,4 @@
-#Name: Coach Mack
+#Name: Tristan long
 #Class: 6th Hour
 #Assignment: Scenario 1
 
